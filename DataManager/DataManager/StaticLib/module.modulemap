@@ -1,0 +1,4 @@
+module StaticLib [system] [extern_c]{
+    header "library.h"
+    export*
+}
